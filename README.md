@@ -74,3 +74,4 @@ This repository contains an adventure game running on console. This practice was
 ## Requirements and Technologies
 
 - java19
+- Visual Studio Code
